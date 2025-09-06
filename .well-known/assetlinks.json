@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.easygene.app",
+    "sha256_cert_fingerprints": [
+      "CC:85:48:D7:7A:75:22:E2:8B:D6:BA:DA:8F:2A:7C:27:5B:8E:A3:5A:C8:C2:2D:AF:6C:57:16:74:61:40:9D:37"
+    ]
+  }
+}]6
